@@ -1,0 +1,32 @@
+.jobs-card{
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(68, 63, 63);
+    margin-bottom: 10px;
+    border-radius: 15px;
+    list-style: none;
+    color: white;
+    
+}
+.top-section{
+    display: flex;
+    align-items: center;
+}
+.web-logo{
+    width: 40px;
+    margin-right: 10px ;
+}
+.star-icon{
+    color: gold;
+}
+.location-empType-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hr-el{
+    background-color: white;
+}
+.detailed-link:hover{
+    text-decoration: none;
+}
